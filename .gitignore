@@ -7,3 +7,6 @@ logs/
 nucleus.log
 artifacts
 hyperexecuteupdate
+target
+*.log
+hyperexecute
