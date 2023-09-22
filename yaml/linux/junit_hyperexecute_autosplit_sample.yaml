@@ -25,7 +25,7 @@ pre:
   - mvn -Dmaven.test.skip=true install
 
 post:
-  - cat yaml/mac/junit_hyperexecute_autosplit_sample.yaml
+  - cat yaml/linux/junit_hyperexecute_autosplit_sample.yaml
 
 mergeArtifacts: true
 
